@@ -15,8 +15,8 @@ To write a C program to implement Tower of Hanoi
 ```
 /*
 Program to to count the number of digits in an integer
-Developed by: Lakshmi Priya .V
-RegisterNumber: 212223220049
+Developed by: Prithivirajan V
+RegisterNumber: 212223100042
 */
 ```
 ```
