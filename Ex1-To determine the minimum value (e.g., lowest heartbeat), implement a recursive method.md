@@ -14,8 +14,8 @@ To write a JAVA program To determine the minimum value (e.g., lowest heartbeat),
 ```
 /*
 Program To determine the minimum value (e.g., lowest heartbeat), implement a recursive method.
-Developed by: Lakshmi Priya
-RegisterNumber:  212223220049
+Developed by: Prithivirajan V
+RegisterNumber:  212223100042
 */
 ```
 ```
